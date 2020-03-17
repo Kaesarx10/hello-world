@@ -1,2 +1,3 @@
 # hello-world
-in the beggining
+in the beggining...
+I was a student of philosophy. I then became an insurance broker. I am now a truck driver. Soon, I will be a programmer. 
